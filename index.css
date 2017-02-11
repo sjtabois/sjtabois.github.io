@@ -1,0 +1,94 @@
+html {
+   height: 100%;
+ }
+ body {
+    width: 800px;
+    height: 100%;
+    background-image: url(http://www.perfectwind.nl/skin/frontend/perfectwind/kite/images/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+
+p {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  color: #E82C0C
+}
+
+h2 {
+  color: #E82C0C;
+  text-align: center;
+}
+
+h3 {
+  color: #E82C0C;
+  text-align: center;
+}
+
+.width100  {width:100%}
+#map {margin: 0 auto}
+
+ header {
+     padding: 5px;
+     font-size: 18px;
+     font-family: monospace;
+     display: block;
+     align-items: stretch;
+ }
+ nav {
+     float: left;
+     text-align: center;
+     color: #000000;
+     margin-left: 35%;
+ }
+ nav ul {
+     padding: 5px;
+     float: left;
+     border-bottom: ;
+     list-style-type: none;
+     text-align: center;
+ }
+ nav li {
+     float: left;
+     text-align: center;
+
+
+ }
+ nav li a {
+     display: block;
+     height: 25px;
+     padding: 12px 18px 8px 18px;
+     vertical-align: middle;
+     color: #000000;
+     text-align: center;
+
+
+ }
+ a {
+     color: ;
+ }
+ section {
+     width: 73%;
+     display: inline-block;
+     float: left;
+ }
+ aside {
+     width: 17%;
+     display: inline-block;
+     background-color:;
+     padding:;
+     min-height: 100%;
+ }
+ aside ul {
+     list-style-type: none;
+ }
+ footer {
+     width: 790px;
+     background-color:;
+     color:;
+     clear: both;
+     display: block;
+ }
